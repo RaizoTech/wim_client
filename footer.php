@@ -29,7 +29,7 @@
                 </div>
                 <!--end col-md-3-->
                 <div class="col-sm-6 col-md-3 mb-4" data-animate="ts-fadeInUp" data-delay=".2s">
-                    <img src="log_icon/gmail.png" width="80" class="mb-4" alt="">
+                    <img src="log_icon/gmail.png" width="80" class="mb-4" alt="" />
                     <h5>Email</h5>
                     <div class="ts-opacity__50">
                         <figure class="mb-0">wimjay.fernando@gmail.com</figure>
