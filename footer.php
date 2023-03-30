@@ -10,7 +10,7 @@
             <div class="row ts-xs-text-center">
                 <div class="col-sm-6 col-md-3 mb-4" data-animate="ts-fadeInUp">
                     <a href="https://www.instagram.com/iamwimjay/">
-                        <img src="log_icon/instagram.png" width="80" class="mb-4" alt="">
+                        <img src="log_icon/instagram.png" width="80" class="mb-4" alt="" />
                         <h5>Instagram</h5>
                     </a>
                     <div class="ts-opacity__50">
