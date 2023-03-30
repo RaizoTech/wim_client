@@ -20,7 +20,7 @@
                 </div>
                 <!--end col-md-3-->
                 <div class="col-sm-6 col-md-3 mb-4" data-animate="ts-fadeInUp" data-delay=".1s">
-                    <img src="log_icon/telephone-call.png" width="80" class="mb-4" alt="">
+                    <img src="log_icon/telephone-call.png" width="80" class="mb-4" alt="" />
                     <h5>Phone</h5>
                     <div class="ts-opacity__50">
                         <figure class="mb-0">+63 917 377 3003</figure>
@@ -39,7 +39,7 @@
                 <!--end col-md-3-->
                 <div class="col-sm-6 col-md-3 mb-4" data-animate="ts-fadeInUp" data-delay=".3s">
                     <a href="https://www.facebook.com/wimjay.fernando">
-                        <img src="log_icon/facebook.png" width="80" class="mb-4" alt="">
+                        <img src="log_icon/facebook.png" width="80" class="mb-4" alt="" />
                         <h5>Facebook</h5>
                     </a>
                     <div class="ts-opacity__50">
