@@ -39,7 +39,7 @@
                 <!--end col-md-3-->
                 <div class="col-sm-6 col-md-3 mb-4" data-animate="ts-fadeInUp" data-delay=".3s">
                     <a href="https://www.facebook.com/wimjay.fernando">
-                        <img src="log_icon/Facebook.png" width="80" class="mb-4" alt="">
+                        <img src="log_icon/facebook.png" width="80" class="mb-4" alt="">
                         <h5>Facebook</h5>
                     </a>
                     <div class="ts-opacity__50">
